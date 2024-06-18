@@ -3,12 +3,12 @@
 
 This script checks the strength of a password based on specified criteria including length, character types, and commonality.
 
-### How to Use:
+How to Use:
 
-1. **Requirements:**
+1. Requirements:
    - Python 3.x installed on your system.
 
-2. **Instructions:**
+2. Instructions:
    - Clone or download the repository to your local machine.
 
    - Navigate to the directory containing the `password_strength_analyzer.py` file.
@@ -21,10 +21,10 @@ This script checks the strength of a password based on specified criteria includ
      python password_strength_analyzer.py
      ```
 
-3. **Input:**
+3. Input:
    - Enter a password when prompted.
 
-4. **Output:**
+4. Output:
    - The script will analyze the password based on the following criteria:
      - Minimum length of 8 characters.
      - Presence of at least one uppercase and one lowercase letter.
@@ -39,7 +39,3 @@ This script checks the strength of a password based on specified criteria includ
      - "Password should contain at least one special character (!@#$%^&*()-_=+{};:,<.>\\|/?~)."
      - "Password is too common and easy to guess."
      - "Password is strong." (if all criteria are met)
-
-5. **Additional Information:**
-   - Developed by [Your Name or Username].
-
